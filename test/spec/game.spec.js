@@ -1,7 +1,7 @@
 /*global describe, it */
 /* global expect, beforeEach*/
 
-/*add schange*/
+/*add change*/
 
 'use strict';
 require(['game'], function (Game) {
