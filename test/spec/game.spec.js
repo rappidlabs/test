@@ -1,7 +1,7 @@
 /*global describe, it */
 /* global expect, beforeEach*/
 
-/*add change*/
+/*add change branche feature*/
 
 'use strict';
 require(['game'], function (Game) {
