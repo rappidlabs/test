@@ -1,5 +1,9 @@
 /*global describe, it */
 /* global expect, beforeEach*/
+
+/**
+ * test git
+ */
 'use strict';
 require(['game'], function (Game) {
 	describe('Ten-Ping Bowling Kata', function () {
